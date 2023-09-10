@@ -1,0 +1,31 @@
+<header class="main-header">
+  <h1 class="main-header__title">
+    <span class="main-header__title--blue">Tech </span>
+    <span class="main-header__title--orange">Brilliance</span>
+  </h1>
+  <div class="container-menu">
+    <nav class="main-header__menu">
+      <ul>
+        <li>
+          <a routerLink="produtos">
+            Produtos
+          <i class="fa-solid fa-list"></i>
+          </a>
+        </li>
+        <li>
+          <a routerLink="carrinho">
+            <i class="fa-solid fa-cart-shopping"></i>
+            Carrinho
+            <span class="badge-carrinho">{{ carrinhoService.obtemCarrinho().length }}</span>
+          </a>
+        </li>
+        <li><a routerLink="contato">Contato</a></li>
+        <li><a href="https://www.instagram.com/rei.gxtvo/"><i class="fa-brands fa-instagram"></i></a></li>
+        <li><a href="https://www.linkedin.com/in/gustavo-f-reinaldo/"><i class="fa-brands fa-linkedin"></i></a></li>
+        <li><a href="https://wa.me/+5588992450127"><i class="fa-brands fa-whatsapp"></i></a></li>
+        <li><a href="https://github.com/gustavo-reinaldo" target="_blank"><i class="fa-brands fa-github"></i></a></li>
+      </ul>
+    </nav>
+    <app-barra-pesquisa></app-barra-pesquisa>
+  </div>
+</header>
