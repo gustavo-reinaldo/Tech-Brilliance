@@ -6,7 +6,9 @@ Tech Brilliance Marketplace é um marketplace de produtos eletrônicos que ofere
 
 ## Capturas de Tela
 
-*Inclua imagens das capturas de tela aqui*
+![Alt text](image.png)
+![Alt text](image-1.png)
+
 
 ## Tecnologias Usadas
 
@@ -24,7 +26,7 @@ O Tech Brilliance Marketplace oferece um front-end de uma página web para compr
 
 ## Licença
 
-Este projeto está sob a licença MIT.
+Todos os direitos do código estão reservados à Gustavo Ferreira Reinaldo.
 
 ## Contato
 
