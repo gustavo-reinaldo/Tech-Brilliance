@@ -4,12 +4,6 @@
 
 Tech Brilliance Marketplace é um marketplace de produtos eletrônicos que oferece uma experiência de compra online, com foco na parte visual, excluindo a implementação de métodos de pagamento.
 
-## Capturas de Tela
-
-![Alt text](image.png)
-![Alt text](image-1.png)
-
-
 ## Tecnologias Usadas
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
